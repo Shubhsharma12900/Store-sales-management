@@ -45,3 +45,10 @@ This starts the Flask development server, and you'll see:
 
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 Open your web browser, visit http://127.0.0.1:5000/, and you'll find the "Jodhpur handloom" homepage.
+![Screenshot (250)](https://github.com/Shubhsharma12900/Store-sales-management/assets/72346489/8aea0466-6810-42a6-bcbd-42a9da2a1117)
+![Screenshot (244)](https://github.com/Shubhsharma12900/Store-sales-management/assets/72346489/a9e40e99-0dd0-4de2-a327-d38ecd44fa29)
+![Screenshot (245)](https://github.com/Shubhsharma12900/Store-sales-management/assets/72346489/1a3fec81-f78f-48f8-93f2-f30a4d9460cc)
+![Screenshot (246)](https://github.com/Shubhsharma12900/Store-sales-management/assets/72346489/abc8e049-7a53-4b31-8710-b25632f218f9)
+![Screenshot (247)](https://github.com/Shubhsharma12900/Store-sales-management/assets/72346489/263f44db-2e2d-4083-bf14-d29158ee50bd)
+![Screenshot (248)](https://github.com/Shubhsharma12900/Store-sales-management/assets/72346489/bc4a9a06-3d40-490e-b0d2-8f655f07f9dd)
+![Screenshot (249)](https://github.com/Shubhsharma12900/Store-sales-management/assets/72346489/9cdd1886-bbd1-4262-9d81-4792004664bd)
